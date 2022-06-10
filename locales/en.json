@@ -322,7 +322,7 @@
       "messages": {
         "explanation": "This designates one of your .evmos names to represent your Evmos account and act as your cross-platform web3 username and profile. You can only have one Primary Evmos Domain Name per Evmos account and can change it at any time.",
         "explanation2": "Only Evmos Domain names that point to your Evmos account can be set as your Primary Evmos Domain Name.",
-        "noForwardRecordAavilable": "No ENS names have their ETH Address records set to this address.",
+        "noForwardRecordAavilable": "No Evmos Domains names have their Evmos Address records set to this address.",
         "notSet": "Primary Evmos Domain Name (reverse record): not set",
         "reverseRecordRemoval": "Are you sure you want to delete your Primary ENS Name record?",
         "selectPlaceholder": "Select one of your Evmos Domain names",

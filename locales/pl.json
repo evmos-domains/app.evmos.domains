@@ -208,7 +208,7 @@
     "step2": {
       "label": "Krok 2",
       "text": "Wymagany jest okres oczekiwania, aby inna osoba nie próbowała zarejestrować tej samej nazwy i chronić cię po twojej próbie.",
-      "title": "Poczekaj minutę"
+      "title": "Poczekaj 30 sekund"
     },
     "step3": {
       "label": "Krok 3",

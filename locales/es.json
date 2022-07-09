@@ -206,7 +206,7 @@
     "step2": {
       "label": "Paso 2",
       "text": "El período de espera es necesario para asegurar que otra persona no ha intentado registrar el mismo nombre y protegerte después de que hagas la solicitud.",
-      "title": "Espera 1 minuto"
+      "title": "Espera 30 segundos"
     },
     "step3": {
       "label": "Paso 3",

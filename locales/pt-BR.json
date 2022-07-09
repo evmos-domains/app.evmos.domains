@@ -206,7 +206,7 @@
     "step2": {
       "label": "Etapa 2",
       "text": "O período de espera é obrgatório para assegura que outra pessoa não tenha tentado registar o mesmo nome e proteger sua solicitação.",
-      "title": "Espere 1 minuto"
+      "title": "Espere 30 segundos"
     },
     "step3": {
       "label": "Etapa 3",

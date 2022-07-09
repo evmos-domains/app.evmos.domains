@@ -206,7 +206,7 @@
     "step2": {
       "label": "Schritt 2",
       "text": "Die Wartezeit ist erforderlich, um sicherzustellen, dass eine andere Person nicht versucht hat, den gleichen Namen zu registrieren, und um Sie nach Ihrem Antrag zu schützen.",
-      "title": "Warten Sie eine Minute"
+      "title": "Warten Sie 30 Sekunden"
     },
     "step3": {
       "label": "Schritt 3",

@@ -204,7 +204,7 @@
     "step2": {
       "label": "Bước 2",
       "text": "Thời gian chờ được bắt buộc để đảm bảo rằng người khác không cố đăng ký cùng một tên miền và bảo vệ bạn sau khi bạn yêu cầu",
-      "title": "Đợi 1 phút"
+      "title": "Chờ 30 giây"
     },
     "step3": {
       "label": "Bước 3",

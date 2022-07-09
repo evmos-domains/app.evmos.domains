@@ -206,7 +206,7 @@
     "step2": {
       "label": "Étape 2",
       "text": "La période d'attente est nécessaire pour garantir qu'une autre personne n'a pas essayé d'enregistrer le même nom, et pour vous protéger après votre demande.",
-      "title": "Attendez 1 minute"
+      "title": "Attendez 30 secondes"
     },
     "step3": {
       "label": "Étape 3",
